@@ -7,5 +7,7 @@ The data is based on the real data set of 252 men in U.S. Navy with measurements
 
 ## Contribution
 Zekai Xu
+
 Jiren Lu
+
 Zhenke Peng
