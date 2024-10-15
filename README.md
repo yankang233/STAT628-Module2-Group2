@@ -11,10 +11,15 @@ This repository contains code to predict body fat percentage using linear regres
 
 
 Table of Contents
+
 Requirements
+
 Code Structure
+
 Usage
+
 Results
+
 License
 
 ### Requirements
