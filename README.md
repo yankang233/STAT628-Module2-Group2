@@ -40,7 +40,9 @@ Feature Selection and Model Training (feature_selection.py): This script perform
 Visualization and Diagnostics (visualization.py): Generates diagnostic plots, including:
 
 R² vs. Number of Features plot.
+
 Residuals vs. Fitted Values plot.
+
 Normal Q-Q plot to assess residual normality.
 
 Results: The results include the best feature set, the regression model's coefficients, and various diagnostic metrics.
