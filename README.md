@@ -86,3 +86,7 @@ Zekai Xu
 Jiren Lu
 
 Zhenke Peng
+
+
+## License
+This project is licensed under the MIT License.
